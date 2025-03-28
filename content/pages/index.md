@@ -624,8 +624,12 @@ sections:
       - title: Intelligent Dependency Management
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          VeloCD offers **Intelligent Dependency Management**, automatically
+          resolving and managing project dependencies with **version
+          compatibility checks** and real-time validation. It detects outdated
+          or vulnerable dependencies and suggests secure, up-to-date
+          alternatives.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
