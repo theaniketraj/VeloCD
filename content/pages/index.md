@@ -56,7 +56,7 @@ sections:
         fontWeight: 400
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Features & Benefits
       color: text-dark
       styles:
         self:
@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: VeloCD
       color: text-primary
       styles:
         self:
