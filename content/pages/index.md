@@ -674,7 +674,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Automated Change Tracking & Audit Logs
         tagline: ''
         subtitle: ''
         text: >
