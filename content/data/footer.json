@@ -42,7 +42,7 @@
         "links": [
             {
                 "label": "Career",
-                "altText": "teams page",
+                "altText": "VeloCD's career page",
                 "url": "/teams",
                 "icon": "arrowRight",
                 "iconPosition": "right",
