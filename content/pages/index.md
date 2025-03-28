@@ -336,7 +336,7 @@ sections:
       text: Flexible Deployment Models
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       Designed for diverse operational environments, VeloCD supports local
       execution as a native desktop application, cloud-based deployments,
