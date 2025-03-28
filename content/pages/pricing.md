@@ -9,19 +9,22 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      VeloCD's pricing structure is designed to offer comprehensive CI/CD
+      automation and version management capabilities at competitive rates.
     plans:
-      - title: Developers
+      - title: Students pack
         price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        details: ID Verification Required
+        description: >+
+          The Free Tier is aimed at students and early-stage contributors.
+          Available at no cost.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Always free for Students
+          - "Must actively use CEIE Git commands to\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_contribute to the CEIE ecosystem."
+          - "Limited to 5 repositories to encourage focused\_ \_ \_ \_ \_ \_and efficient project management."
+          - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
@@ -44,22 +47,22 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $99
+        price: $10
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          The Pro Tier is designed for individual developers who require
+          enhanced features and greater flexibility.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
+          - "Comprehensive Workflow Automation, Priority\_ \_ \_ \_ \_ \_Support."
+          - Enhanced integration with external CI/CD tools.
+          - Additional Configuration Options.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Try Pro
             url: /
             icon: arrowRight
             iconPosition: right
@@ -78,15 +81,15 @@ sections:
       - title: Enterprise
         price: Custom
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          The Enterprise Tier caters to organizations that need a robust,
+          scalable solution with extended features and dedicated support.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - All Pro features plus Team Collaboration Tools.
+          - Advanced Security and Compliance Measures.
+          - Custom Integrations.
+          - Dedicated Account Management.
+          - 24/7 Enterprise Level Support.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
