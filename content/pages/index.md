@@ -245,11 +245,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ReFlow centralizes and automates the management of software versions and
+      deployment pipelines. Its design is grounded in a modular architecture
+      that enables precise control over version incrementation, branching,
+      tagging, and rollback mechanisms. The platform facilitates a seamless
+      workflow from source code management to deployment, reducing manual
+      intervention and mitigating risks associated with human error.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
