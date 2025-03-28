@@ -246,7 +246,7 @@ sections:
       type: TitleBlock
     subtitle: This is a subtitle
     text: >
-      ReFlow centralizes and automates the management of software versions and
+      VeloCD centralizes and automates the management of software versions and
       deployment pipelines. Its design is grounded in a modular architecture
       that enables precise control over version incrementation, branching,
       tagging, and rollback mechanisms. The platform facilitates a seamless
