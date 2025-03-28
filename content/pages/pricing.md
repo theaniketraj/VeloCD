@@ -89,7 +89,7 @@ sections:
           - Advanced Security and Compliance Measures.
           - Custom Integrations.
           - Dedicated Account Management.
-          - Feature five
+          - 24/7 Enterprise Level Support.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
