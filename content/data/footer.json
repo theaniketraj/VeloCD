@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Velocity Meets Continuous Deployment.\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -27,11 +27,12 @@
             },
             {
                 "label": "Documentation",
-                "url": "/",
+                "url": "https://velocd-docs.netlify.app",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "VeloCD's DOCS"
             }
         ],
         "type": "FooterLinksGroup"
@@ -41,16 +42,8 @@
         "links": [
             {
                 "label": "Careers",
-                "altText": "careers page",
+                "altText": "VeloCD's career page",
                 "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -103,7 +96,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "VeloCD's Web Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
