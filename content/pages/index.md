@@ -357,6 +357,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: VeloCD's DOCS
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
