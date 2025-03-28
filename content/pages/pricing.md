@@ -47,7 +47,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $99
+        price: $10
         details: per month
         description: >
           The Pro Tier is designed for individual developers who require
