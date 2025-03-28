@@ -748,7 +748,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - VeloCD
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Unleash the velocity in your CI/CD.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
