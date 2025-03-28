@@ -55,7 +55,7 @@ sections:
         features:
           - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
           - "Comprehensive Workflow Automation, and Priority\_ \_ \_ \_ \_ \_ \_ \_ \_ Support."
-          - Feature three
+          - Enhanced integration with external CI/CD tools.
           - Feature four
         image:
           url: /images/abstract-feature2.svg
