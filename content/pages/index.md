@@ -622,7 +622,7 @@ sections:
     subtitle: Explore Exhaustive features in our DOCS.
     items:
       - title: Intelligent Dependency Management
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
