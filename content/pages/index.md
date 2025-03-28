@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Read DOCS
         altText: ''
-        url: /
+        url: 'https://velocd-docs.netlify.app'
         showIcon: true
         icon: arrowRight
         iconPosition: right
