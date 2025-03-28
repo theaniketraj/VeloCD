@@ -648,7 +648,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Secure Role-Based Access Control (RBAC)
         tagline: ''
         subtitle: ''
         text: |
