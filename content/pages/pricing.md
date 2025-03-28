@@ -86,7 +86,7 @@ sections:
           scalable solution with extended features and dedicated support.
         features:
           - All Pro features plus Team Collaboration Tools.
-          - Feature two
+          - Advanced Security and Compliance Measures.
           - Feature three
           - Feature four
           - Feature five
