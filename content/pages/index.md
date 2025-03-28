@@ -338,8 +338,11 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Designed for diverse operational environments, VeloCD supports local
+      execution as a native desktop application, cloud-based deployments,
+      on-premises hosting, and containerized solutions through Docker and
+      Kubernetes. This flexibility accommodates both small-scale and
+      enterprise-level infrastructures.
     actions:
       - label: Get started
         url: /
