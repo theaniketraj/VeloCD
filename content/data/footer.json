@@ -67,7 +67,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:theaniketraj@hotmail.com",
             "icon": "mail",
             "type": "Social"
         }
