@@ -651,8 +651,11 @@ sections:
       - title: Secure Role-Based Access Control (RBAC)
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          VeloCD integrates **Secure RBAC**, allowing organizations to define
+          and manage user permissions with precision. Assign granular access
+          levels to developers, testers, and admins, ensuring **only authorized
+          personnel** can modify or deploy code.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
