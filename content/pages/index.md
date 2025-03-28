@@ -61,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: at a glance
     items:
       - type: FeaturedItem
         title: Real-Time CI/CD Pipeline Visualization
