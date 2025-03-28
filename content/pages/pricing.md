@@ -20,7 +20,9 @@ sections:
 
         features:
           - Always free for Students
-          - Feature two
+          - >-
+            Must actively use CEIE Git commands to contribute to the CEIE
+            ecosystem.
           - Feature three
           - Feature four
         image:
