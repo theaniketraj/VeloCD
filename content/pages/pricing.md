@@ -23,9 +23,7 @@ sections:
         features:
           - Always free for Students
           - "Must actively use CEIE Git commands to\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_contribute to the CEIE ecosystem."
-          - >-
-            Limited to 5 repositories to encourage focused and efficient project
-            management.
+          - "Limited to 5 repositories to encourage focused\_ \_ \_ \_ \_ \_and efficient project management."
           - Feature four
         image:
           url: /images/abstract-feature1.svg
