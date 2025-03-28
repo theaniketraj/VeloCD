@@ -755,5 +755,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: VeloCD
 type: PageLayout
 ---
