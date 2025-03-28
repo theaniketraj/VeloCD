@@ -49,9 +49,9 @@ sections:
       - title: Professional
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          The Pro Tier is designed for individual developers who require
+          enhanced features and greater flexibility.
         features:
           - Feature one
           - Feature two
