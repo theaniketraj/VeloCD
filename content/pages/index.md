@@ -56,21 +56,24 @@ sections:
         fontWeight: 400
   - type: FeaturedItemsSection
     title:
-      text: Features & Benefits
+      text: Key Features
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Real-Time CI/CD Pipeline Visualization
+        subtitle: ''
+        text: >+
+          VeloCD offers an **interactive, real-time visualization** of your
+          CI/CD pipelines. Track every build, test, and deployment in **live
+          motion**, with dynamic status indicators that reflect changes
+          instantly. See green dots for successful stages and red for failures,
+          allowing you to **identify bottlenecks at a glance**.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -93,12 +96,14 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Blockchain Powered Verification
+        subtitle: ''
+        text: >
+          Ensure the **integrity and authenticity** of your deployment process
+          with VeloCD’s **blockchain-based verification**. Each build and
+          deployment is cryptographically recorded, making it **tamper-proof and
+          auditable**. This ensures that your software’s integrity is preserved,
+          providing **trust and security** in every release.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -118,12 +123,13 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Kubernetes Orchestrated CI/CD
+        subtitle: ''
+        text: >
+          VeloCD brings **Kubernetes-powered orchestration** into your CI/CD
+          pipeline, enabling **scalable and containerized** deployments.
+          Automatically spin up and manage multiple environments in parallel,
+          reducing deployment time and optimizing resource utilization.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
