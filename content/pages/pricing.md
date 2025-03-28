@@ -24,7 +24,7 @@ sections:
           - Always free for Students
           - "Must actively use CEIE Git commands to\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_contribute to the CEIE ecosystem."
           - "Limited to 5 repositories to encourage focused\_ \_ \_ \_ \_ \_and efficient project management."
-          - Feature four
+          - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
