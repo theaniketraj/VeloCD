@@ -74,6 +74,10 @@ sections:
           instantly. See green dots for successful stages and red for failures,
           allowing you to **identify bottlenecks at a glance**.
 
+
+          *   Enhances **debugging efficiency** and provides clear insights into
+          deployment progress with real-time feedback.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
