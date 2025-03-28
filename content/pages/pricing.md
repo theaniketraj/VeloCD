@@ -62,7 +62,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try Pro Version
+          - label: Try Pro
             url: /
             icon: arrowRight
             iconPosition: right
