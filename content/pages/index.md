@@ -96,7 +96,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Blockchain-Powered Verification
+      - title: Blockchain Powered Verification
         subtitle: ''
         text: >
           Ensure the **integrity and authenticity** of your deployment process
