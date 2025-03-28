@@ -619,7 +619,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: Explore Exhaustive features in our DOCS.
     items:
       - title: Feature Item One
         tagline: This is the tagline
