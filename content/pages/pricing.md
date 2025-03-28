@@ -85,7 +85,7 @@ sections:
           The Enterprise Tier caters to organizations that need a robust,
           scalable solution with extended features and dedicated support.
         features:
-          - Feature one
+          - All Pro features plus Team Collaboration Tools.
           - Feature two
           - Feature three
           - Feature four
