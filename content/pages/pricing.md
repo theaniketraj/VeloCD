@@ -53,7 +53,7 @@ sections:
           The Pro Tier is designed for individual developers who require
           enhanced features and greater flexibility.
         features:
-          - 'Unlimited repository creation, advanced version management,'
+          - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
           - Feature two
           - Feature three
           - Feature four
