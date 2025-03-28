@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: Read DOCS
-        altText: ''
+        altText: VeloCD DOCS
         url: 'https://velocd-docs.netlify.app'
         showIcon: true
         icon: arrowRight
