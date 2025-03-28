@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Developers
         price: Free
-        details: No credit card required
+        details: ID Verification Required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
