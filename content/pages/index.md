@@ -291,18 +291,18 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Automated Version Management
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Implements semantic versioning based on commit metadata, ensuring that
+      major, minor, and patch updates are applied automatically. This module
+      provides detailed audit trails and facilitates rollback operations with
+      precision.
     actions: []
     media:
       title: Title of the video
@@ -333,13 +333,16 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Flexible Deployment Models
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Designed for diverse operational environments, VeloCD supports local
+      execution as a native desktop application, cloud-based deployments,
+      on-premises hosting, and containerized solutions through Docker and
+      Kubernetes. This flexibility accommodates both small-scale and
+      enterprise-level infrastructures.
     actions:
       - label: Get started
         url: /
@@ -347,19 +350,20 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: Explore DOCS
+        url: 'https://velocd-docs.netlify.app'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
+        altText: VeloCD's DOCS
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -368,13 +372,15 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Security & Compliance
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Enforces strict security protocols including role-based access control
+      (RBAC), multi-factor authentication, and comprehensive audit logging.
+      These measures ensure data integrity and compliance with industry
+      standards.
     actions:
       - label: Get started
         url: /
@@ -382,19 +388,20 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: Explore DOCS
+        url: 'https://velocd-docs.netlify.app'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
+        altText: VeloCD's DOCS
     media:
       url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -606,19 +613,23 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: VeloCD's Advanced Capabilities
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Explore Exhaustive features in our DOCS.
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Intelligent Dependency Management
+        tagline: ''
+        subtitle: ''
+        text: >
+          VeloCD offers **Intelligent Dependency Management**, automatically
+          resolving and managing project dependencies with **version
+          compatibility checks** and real-time validation. It detects outdated
+          or vulnerable dependencies and suggests secure, up-to-date
+          alternatives.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -637,11 +648,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Secure Role-Based Access Control (RBAC)
+        tagline: ''
+        subtitle: ''
+        text: >
+          VeloCD integrates **Secure RBAC**, allowing organizations to define
+          and manage user permissions with precision. Assign granular access
+          levels to developers, testers, and admins, ensuring **only authorized
+          personnel** can modify or deploy code.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -660,12 +674,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Automated Change Tracking & Audit Logs
+        tagline: ''
+        subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          VeloCD provides **Automated Change Tracking & Audit Logs**, recording
+          every modification, build, and deployment event with timestamps. This
+          enables **detailed traceability** and makes it easy to review
+          historical changes for debugging or compliance audits.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
