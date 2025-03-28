@@ -88,7 +88,7 @@ sections:
           - All Pro features plus Team Collaboration Tools.
           - Advanced Security and Compliance Measures.
           - Custom Integrations.
-          - Feature four
+          - Dedicated Account Management.
           - Feature five
         image:
           url: /images/abstract-feature3.svg
