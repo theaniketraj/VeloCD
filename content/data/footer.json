@@ -42,7 +42,7 @@
         "links": [
             {
                 "label": "Team",
-                "altText": "careers page",
+                "altText": "teams page",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
