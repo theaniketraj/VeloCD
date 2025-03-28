@@ -31,7 +31,7 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: Careers
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: VeloCD Career Page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
