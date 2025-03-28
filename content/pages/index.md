@@ -177,7 +177,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Unleash the Velocity in your CI/CD.
+      text: Unleash the Velocity in your CI/CD
       color: text-dark
       styles:
         self:
