@@ -244,7 +244,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Over
     text: >
       VeloCD centralizes and automates the management of software versions and
       deployment pipelines. Its design is grounded in a modular architecture
