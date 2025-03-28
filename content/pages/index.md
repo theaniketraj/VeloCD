@@ -125,7 +125,7 @@ sections:
       - title: Kubernetes Orchestrated CI/CD
         subtitle: ''
         text: >
-          VeloCD brings **Kubernetes-powered orchestration** into your CI/CD
+          VeloCD brings **Kubernetes powered orchestration** into your CI/CD
           pipeline, enabling **scalable and containerized** deployments.
           Automatically spin up and manage multiple environments in parallel,
           reducing deployment time and optimizing resource utilization.
