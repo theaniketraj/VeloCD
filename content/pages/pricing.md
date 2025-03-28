@@ -48,7 +48,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: $10
-        details: per month
+        details: per user billed monthly
         description: >
           The Pro Tier is designed for individual developers who require
           enhanced features and greater flexibility.
@@ -80,7 +80,7 @@ sections:
         type: PricingPlan
       - title: Enterprise
         price: Custom
-        details: per month
+        details: per user billed monthly
         description: >
           The Enterprise Tier caters to organizations that need a robust,
           scalable solution with extended features and dedicated support.
