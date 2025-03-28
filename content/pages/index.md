@@ -9,10 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-
-      Experience the future of continuous integration: VeloCD accelerates your
-      builds and deployments with real-time monitoring and intelligent
-      automation.
+      Experience the Future of Continuous Integration. VeloCD accelerates your
+      Builds and Deployments with Real-Time Monitoring and Intelligent
+      Automation.
     actions:
       - label: Get started
         altText: ''
@@ -23,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Read DOCS
+      - label: Explore DOCS
         altText: VeloCD DOCS
         url: 'https://velocd-docs.netlify.app'
         showIcon: true
