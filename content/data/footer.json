@@ -41,7 +41,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Career",
+                "label": "Careers",
                 "altText": "VeloCD's career page",
                 "url": "/careers",
                 "icon": "arrowRight",
