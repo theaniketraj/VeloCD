@@ -371,7 +371,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Security & Compliance
       color: text-dark
       type: TitleBlock
     subtitle: ''
