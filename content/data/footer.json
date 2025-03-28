@@ -27,7 +27,7 @@
             },
             {
                 "label": "Documentation",
-                "url": "",
+                "url": "https://velocd-docs.netlify.app",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
