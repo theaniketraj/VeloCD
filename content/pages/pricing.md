@@ -48,7 +48,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: $10
-        details: /user/month
+        details: per user billed monthly
         description: >
           The Pro Tier is designed for individual developers who require
           enhanced features and greater flexibility.
