@@ -351,7 +351,7 @@ sections:
         style: secondary
         type: Button
       - label: Explore DOCS
-        url: ''
+        url: 'https://velocd-docs.netlify.app'
         showIcon: true
         icon: arrowRight
         iconPosition: right
