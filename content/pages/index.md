@@ -376,8 +376,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Enforces strict security protocols including role-based access control
+      (RBAC), multi-factor authentication, and comprehensive audit logging.
+      These measures ensure data integrity and compliance with industry
+      standards.
     actions:
       - label: Get started
         url: /
