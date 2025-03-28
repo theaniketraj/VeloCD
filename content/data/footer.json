@@ -43,7 +43,7 @@
             {
                 "label": "Career",
                 "altText": "VeloCD's career page",
-                "url": "/teams",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
