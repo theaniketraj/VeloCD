@@ -120,5 +120,6 @@ seo:
   metaDescription: Explore Flexible Pricing Plans for VeloCD.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
