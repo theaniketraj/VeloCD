@@ -291,7 +291,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Automated Version Management
       color: text-dark
       styles:
         self:
