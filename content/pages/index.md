@@ -98,10 +98,12 @@ sections:
               borderRadius: x-large
       - title: Blockchain-Powered Verification
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Ensure the **integrity and authenticity** of your deployment process
+          with VeloCD’s **blockchain-based verification**. Each build and
+          deployment is cryptographically recorded, making it **tamper-proof and
+          auditable**. This ensures that your software’s integrity is preserved,
+          providing **trust and security** in every release.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
