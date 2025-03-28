@@ -350,7 +350,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Explore DOCS
         url: /
         showIcon: true
         icon: arrowRight
