@@ -613,7 +613,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: VeloCD's Advanced Capabilities
       color: text-primary
       styles:
         self:
