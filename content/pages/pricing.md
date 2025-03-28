@@ -80,7 +80,7 @@ sections:
         type: PricingPlan
       - title: Enterprise
         price: Custom
-        details: per user per month
+        details: per user billed monthly
         description: >
           The Enterprise Tier caters to organizations that need a robust,
           scalable solution with extended features and dedicated support.
