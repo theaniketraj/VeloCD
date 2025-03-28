@@ -23,7 +23,7 @@
         {
             "label": "Team",
             "altText": "Teams page",
-            "url": "/teams",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
