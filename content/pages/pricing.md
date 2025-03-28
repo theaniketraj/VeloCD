@@ -117,7 +117,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Pricing - VeloCD
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Explore Flexible Pricing Plans for VeloCD.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
