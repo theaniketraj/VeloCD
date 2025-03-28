@@ -752,5 +752,9 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: VeloCD
 type: PageLayout
 ---
