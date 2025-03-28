@@ -56,7 +56,7 @@ sections:
           - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
           - "Comprehensive Workflow Automation, and Priority\_ \_ \_ \_ \_ \_ \_ \_ \_ Support."
           - Enhanced integration with external CI/CD tools.
-          - Feature four
+          - Additional Configuration Options.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
