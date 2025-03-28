@@ -14,9 +14,10 @@ sections:
       - title: Students pack
         price: Free
         details: ID Verification Required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          The Free Tier is aimed at students and early-stage contributors.
+          Available at no cost.
+
         features:
           - Feature one
           - Feature two
