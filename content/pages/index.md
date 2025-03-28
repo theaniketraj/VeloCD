@@ -123,7 +123,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Kubernetes-Orchestrated CI/CD
+      - title: Kubernetes Orchestrated CI/CD
         subtitle: ''
         text: >
           VeloCD brings **Kubernetes-powered orchestration** into your CI/CD
