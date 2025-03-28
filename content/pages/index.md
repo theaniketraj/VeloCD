@@ -7,7 +7,7 @@ sections:
       text: Where Speed Powers CI/CD
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Velocity meets CI/CD
     text: >
 
       Experience the future of continuous integration: VeloCD accelerates your
