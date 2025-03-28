@@ -621,7 +621,7 @@ sections:
       type: TitleBlock
     subtitle: Explore Exhaustive features in our DOCS.
     items:
-      - title: Feature Item One
+      - title: Intelligent Dependency Management
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
