@@ -41,7 +41,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Team",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
