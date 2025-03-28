@@ -41,7 +41,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Team",
+                "label": "Career",
                 "altText": "teams page",
                 "url": "/teams",
                 "icon": "arrowRight",
