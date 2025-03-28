@@ -19,7 +19,7 @@ sections:
           Available at no cost.
 
         features:
-          - Feature one
+          - Always free for Students
           - Feature two
           - Feature three
           - Feature four
