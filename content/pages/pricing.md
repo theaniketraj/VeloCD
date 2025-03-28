@@ -87,7 +87,7 @@ sections:
         features:
           - All Pro features plus Team Collaboration Tools.
           - Advanced Security and Compliance Measures.
-          - Feature three
+          - Custom Integrations.
           - Feature four
           - Feature five
         image:
