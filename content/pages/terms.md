@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 500
     subtitle: ''
     text: >
       1.  **Introduction** 
