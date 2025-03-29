@@ -76,11 +76,12 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Terms of Service"
         },
         {
             "label": "Privacy",
