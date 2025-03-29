@@ -42,7 +42,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
