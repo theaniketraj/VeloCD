@@ -97,7 +97,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: center
+        textAlign: justify
 slug: terms
 isDraft: false
 seo:
