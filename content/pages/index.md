@@ -454,12 +454,12 @@ sections:
       text: Say Hello to VeloCD
       color: text-dark
       type: TitleBlock
-    subtitle: or a feedback perhaps.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Empower Your CI/CD Workflow with VeloCD.
+    text: >
+      Whether you've a question or feedback - we'd love to hear from you. Our
+      team is committed to continuous improvement, and your insights help us
+      shape a more efficient and powerful version management experience. Reach
+      out today and let's build the future of CI/CD automation together.
     media:
       fields:
         - name: name
