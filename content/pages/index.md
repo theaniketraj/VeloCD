@@ -455,11 +455,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Empower Your CI/CD Workflow with VeloCD.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      *Whether you have a question, feedback, or a collaboration proposal— we’d
+      love to hear from you. Our team is committed to continuous improvement,
+      and your insights help us shape a more efficient and powerful version
+      management experience. Reach out today and let’s build the future of CI/CD
+      automation together.*
     media:
       fields:
         - name: name
