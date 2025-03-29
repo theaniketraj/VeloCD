@@ -89,7 +89,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Privacy Policy"
         }
     ],
     "copyrightText": "VeloCD's Web Powered by [Netlify](https://www.netlify.com/)\n",
