@@ -451,10 +451,10 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Say Hello to VeloCD
+      text: Empower Your CI/CD Workflow with VeloCD
       color: text-dark
       type: TitleBlock
-    subtitle: Empower Your CI/CD Workflow with VeloCD.
+    subtitle: ''
     text: >
       Whether you've a question or feedback - we'd love to hear from you. Our
       team is committed to continuous improvement, and your insights help us
