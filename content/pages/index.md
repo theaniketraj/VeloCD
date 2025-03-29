@@ -454,7 +454,7 @@ sections:
       text: Say Hello to VeloCD
       color: text-dark
       type: TitleBlock
-    subtitle: or a feedback perhaps.
+    subtitle: Empower Your CI/CD Workflow with VeloCD.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
