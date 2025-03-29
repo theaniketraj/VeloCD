@@ -451,7 +451,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Say Hello to VeloCD
+      text: Empower Your CI/CD Workflow with VeloCD
       color: text-dark
       type: TitleBlock
     subtitle: Empower Your CI/CD Workflow with VeloCD.
