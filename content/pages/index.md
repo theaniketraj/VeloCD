@@ -455,11 +455,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Empower Your CI/CD Workflow with VeloCD.
-    text: >
-      *Whether you've a question or feedback - we'd love to hear from you. Our
-      team is committed to continuous improvement, and your insights help us
-      shape a more efficient and powerful version management experience. Reach
-      out today and let's build the future of CI/CD automation together.*
+    text: |
+      *dhfjghjk*
     media:
       fields:
         - name: name
