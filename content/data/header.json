@@ -18,7 +18,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "VeloCD Pricing Plans"
         },
         {
             "label": "Team",
@@ -34,7 +35,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -42,11 +43,12 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Log in"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
