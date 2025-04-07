@@ -53,7 +53,7 @@ sections:
           The Pro Tier is designed for individual developers who require
           enhanced features and greater flexibility.
         features:
-          - Everything in Free.
+          - All Free features.
           - Unlimited Repository Creation.
           - Advanced Version Management.
           - Comprehensive Workflow Automation.
