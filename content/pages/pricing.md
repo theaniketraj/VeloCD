@@ -55,6 +55,7 @@ sections:
         features:
           - Everything in Free.
           - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
+          - ''
           - "Comprehensive Workflow Automation, Priority\_ \_ \_ \_ \_ \_Support."
           - Enhanced integration with external CI/CD tools.
           - Additional Configuration Options.
