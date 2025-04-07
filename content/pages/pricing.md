@@ -13,7 +13,7 @@ sections:
       VeloCD's pricing structure is designed to offer comprehensive CI/CD
       automation and version management capabilities at competitive rates.
     plans:
-      - title: Students pack
+      - title: Core
         price: Free
         details: ID Verification Required
         description: >+
@@ -53,8 +53,10 @@ sections:
           The Pro Tier is designed for individual developers who require
           enhanced features and greater flexibility.
         features:
-          - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
-          - "Comprehensive Workflow Automation, Priority\_ \_ \_ \_ \_ \_Support."
+          - Unlimited Repository Creation.
+          - Advanced Version Management.
+          - Comprehensive Workflow Automation.
+          - Priority Support.
           - Enhanced integration with external CI/CD tools.
           - Additional Configuration Options.
         image:
@@ -85,7 +87,8 @@ sections:
           The Enterprise Tier caters to organizations that need a robust,
           scalable solution with extended features and dedicated support.
         features:
-          - All Pro features plus Team Collaboration Tools.
+          - All Pro features.
+          - Team Collaboration Tools.
           - Advanced Security and Compliance Measures.
           - Custom Integrations.
           - Dedicated Account Management.
