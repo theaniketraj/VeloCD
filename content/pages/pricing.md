@@ -89,7 +89,7 @@ sections:
           scalable solution with extended features and dedicated support.
         features:
           - All Pro features plus Team Collaboration Tools.
-          - ''
+          - Team Collaboration Tools.
           - Advanced Security and Compliance Measures.
           - Custom Integrations.
           - Dedicated Account Management.
