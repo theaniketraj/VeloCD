@@ -54,7 +54,7 @@ sections:
           enhanced features and greater flexibility.
         features:
           - Everything in Free.
-          - "Unlimited Repository Creation, Advanced Version\_ \_ \_ \_Management."
+          - Unlimited Repository Creation.
           - Advanced Version Management.
           - "Comprehensive Workflow Automation, Priority\_ \_ \_ \_ \_ \_Support."
           - Priority Support.
