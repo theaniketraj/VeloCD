@@ -13,7 +13,7 @@ sections:
       VeloCD's pricing structure is designed to offer comprehensive CI/CD
       automation and version management capabilities at competitive rates.
     plans:
-      - title: Students pack
+      - title: Core
         price: Free
         details: ID Verification Required
         description: >+
