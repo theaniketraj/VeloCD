@@ -27,7 +27,7 @@
                 "altText": "VeloCD Pricing Plan"
             },
             {
-                "label": "Documentation",
+                "label": "Docs",
                 "url": "https://velocd-docs.netlify.app",
                 "icon": "arrowRight",
                 "iconPosition": "right",
