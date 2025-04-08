@@ -15,7 +15,7 @@ sections:
     plans:
       - title: Core
         price: Free
-        details: GitHub Account Mandatory
+        details: No Surprise Bills
         description: >+
           The Free Tier is aimed at students and early-stage contributors.
           Available at no cost.
