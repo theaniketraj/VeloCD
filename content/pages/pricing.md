@@ -23,7 +23,7 @@ sections:
         features:
           - Always free for Students
           - 'Essential CI/CD Pipeline,'
-          - "Limited to 5 repositories to encourage focused\_ \_ \_ \_ \_ \_and efficient project management."
+          - Integrated Git Workflows.
           - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
