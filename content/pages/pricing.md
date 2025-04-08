@@ -15,7 +15,7 @@ sections:
     plans:
       - title: Core
         price: Free
-        details: ID Verification Required
+        details: GitHub Account Required
         description: >+
           The Free Tier is aimed at students and early-stage contributors.
           Available at no cost.
