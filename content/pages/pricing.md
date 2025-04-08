@@ -26,7 +26,7 @@ sections:
           - Integrated Git Workflows.
           - Limited Active Projects.
           - Real-Time Monitoring & Logs.
-          - ''
+          - Community-Powered Support.
           - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
