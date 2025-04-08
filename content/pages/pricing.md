@@ -21,7 +21,6 @@ sections:
           Available at no cost.
 
         features:
-          - Always free for Students
           - 'Essential CI/CD Pipeline,'
           - Integrated Git Workflows.
           - Limited Active Projects.
