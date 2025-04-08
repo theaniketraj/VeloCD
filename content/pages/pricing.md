@@ -16,10 +16,9 @@ sections:
       - title: Core
         price: Free
         details: No Surprise Bills
-        description: >+
+        description: >
           The Free Tier is aimed at students and early-stage contributors.
-          Available at no cost.
-
+          Available at no cost. Students ID Verification Required.
         features:
           - Essential CI/CD Pipeline.
           - Integrated Git Workflows.
