@@ -25,6 +25,7 @@ sections:
           - 'Essential CI/CD Pipeline,'
           - Integrated Git Workflows.
           - ''
+          - ''
           - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
