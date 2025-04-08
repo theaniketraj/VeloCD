@@ -22,7 +22,7 @@ sections:
 
         features:
           - Always free for Students
-          - "Must actively use CEIE Git commands to\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_contribute to the CEIE ecosystem."
+          - 'Essential CI/CD Pipeline,'
           - "Limited to 5 repositories to encourage focused\_ \_ \_ \_ \_ \_and efficient project management."
           - Future Enhancements Included.
         image:
