@@ -24,7 +24,7 @@ sections:
           - Always free for Students
           - 'Essential CI/CD Pipeline,'
           - Integrated Git Workflows.
-          - ''
+          - Limited Active Projects.
           - ''
           - Future Enhancements Included.
         image:
