@@ -21,7 +21,7 @@ sections:
           Available at no cost.
 
         features:
-          - 'Essential CI/CD Pipeline,'
+          - Essential CI/CD Pipeline.
           - Integrated Git Workflows.
           - Limited Active Projects.
           - Real-Time Monitoring & Logs.
