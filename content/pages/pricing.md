@@ -25,7 +25,7 @@ sections:
           - 'Essential CI/CD Pipeline,'
           - Integrated Git Workflows.
           - Limited Active Projects.
-          - ''
+          - Real-Time Monitoring & Logs.
           - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
