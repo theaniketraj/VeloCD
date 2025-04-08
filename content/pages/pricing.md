@@ -15,15 +15,16 @@ sections:
     plans:
       - title: Core
         price: Free
-        details: ID Verification Required
-        description: >+
+        details: No Surprise Bills
+        description: >
           The Free Tier is aimed at students and early-stage contributors.
-          Available at no cost.
-
+          Available at no cost. Students ID Verification Required.
         features:
-          - Always free for Students
-          - "Must actively use CEIE Git commands to\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_contribute to the CEIE ecosystem."
-          - "Limited to 5 repositories to encourage focused\_ \_ \_ \_ \_ \_and efficient project management."
+          - Essential CI/CD Pipeline.
+          - Integrated Git Workflows.
+          - Limited Active Projects.
+          - Real-Time Monitoring & Logs.
+          - Community-Powered Support.
           - Future Enhancements Included.
         image:
           url: /images/abstract-feature1.svg
