@@ -33,6 +33,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: Careers at VeloCD
 type: PageLayout
 isDraft: true
 ---
