@@ -36,6 +36,10 @@ seo:
       content: Careers at VeloCD
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        Experience the Future of Continuous Integration. VeloCD accelerates your
+        Builds and Deployments with Real-Time Monitoring and Intelligent
+        Automation.
 type: PageLayout
 isDraft: true
 ---
