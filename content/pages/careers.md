@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-    variant: three-col-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -25,10 +25,21 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: Careers
+  metaTitle: Careers at VeloCD
   metaDescription: VeloCD Career Page
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: Careers at VeloCD
+    - type: MetaTag
+      property: 'og:description'
+      content: >-
+        Experience the Future of Continuous Integration. VeloCD accelerates your
+        Builds and Deployments with Real-Time Monitoring and Intelligent
+        Automation.
 type: PageLayout
+isDraft: true
 ---
