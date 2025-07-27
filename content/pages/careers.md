@@ -35,6 +35,7 @@ seo:
       property: 'og:title'
       content: Careers at VeloCD
     - type: MetaTag
+      property: 'og:description'
 type: PageLayout
 isDraft: true
 ---
