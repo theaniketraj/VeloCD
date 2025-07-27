@@ -25,7 +25,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: Careers
+  metaTitle: Careers at VeloCD
   metaDescription: VeloCD Career Page
   socialImage: /images/main-hero.jpg
   type: Seo
