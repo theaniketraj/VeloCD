@@ -414,10 +414,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          VeloCD provides **Automated Change Tracking & Audit Logs**, recording
-          every modification, build, and deployment event with timestamps. This
-          enables **detailed traceability** and makes it easy to review
-          historical changes for debugging or compliance audits.
+          Continuum provides **Automated Change Tracking & Audit Logs**,
+          recording every modification, build, and deployment event with
+          timestamps. This enables **detailed traceability** and makes it easy
+          to review historical changes for debugging or compliance audits.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
