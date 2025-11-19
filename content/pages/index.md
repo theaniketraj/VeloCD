@@ -157,7 +157,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: VeloCD
+      label: Continuum
       color: text-primary
       styles:
         self:
