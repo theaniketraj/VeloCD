@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Experience the Future of Continuous Integration. VeloCD accelerates your
-      Builds and Deployments with Real-Time Monitoring and Intelligent
+      Experience the Future of Continuous Integration. Continuum accelerates
+      your Builds and Deployments with Real-Time Monitoring and Intelligent
       Automation.
     actions:
       - label: Get started
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Velocd
+      label: continuum
       color: text-primary
       type: Badge
     elementId: ''
@@ -66,13 +66,12 @@ sections:
       - type: FeaturedItem
         title: Real-Time CI/CD Pipeline Visualization
         subtitle: ''
-        text: >+
-          VeloCD offers an **interactive, real-time visualization** of your
+        text: >
+          Continuum offers an **interactive, real-time visualization** of your
           CI/CD pipelines. Track every build, test, and deployment in **live
           motion**, with dynamic status indicators that reflect changes
           instantly. See green dots for successful stages and red for failures,
           allowing you to **identify bottlenecks at a glance**.
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -125,7 +124,7 @@ sections:
       - title: Kubernetes Orchestrated CI/CD
         subtitle: ''
         text: >
-          VeloCD brings **Kubernetes powered orchestration** into your CI/CD
+          Continuum brings **Kubernetes powered orchestration** into your CI/CD
           pipeline, enabling **scalable and containerized** deployments.
           Automatically spin up and manage multiple environments in parallel,
           reducing deployment time and optimizing resource utilization.
@@ -157,7 +156,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: VeloCD
+      label: Continuum
       color: text-primary
       styles:
         self:
@@ -185,8 +184,8 @@ sections:
       type: TitleBlock
     subtitle: Overview
     text: >
-      VeloCD centralizes and automates the management of software versions and
-      deployment pipelines. Its design is grounded in a modular architecture
+      Continuum centralizes and automates the management of software versions
+      and deployment pipelines. Its design is grounded in a modular architecture
       that enables precise control over version incrementation, branching,
       tagging, and rollback mechanisms. The platform facilitates a seamless
       workflow from source code management to deployment, reducing manual
@@ -212,7 +211,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: VeloCD
+      label: Continuum
       color: text-primary
       styles:
         self:
@@ -277,7 +276,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Designed for diverse operational environments, VeloCD supports local
+      Designed for diverse operational environments, Continuum supports local
       execution as a native desktop application, cloud-based deployments,
       on-premises hosting, and containerized solutions through Docker and
       Kubernetes. This flexibility accommodates both small-scale and
@@ -350,7 +349,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: VeloCD's Advanced Capabilities
+      text: Continuum's Advanced Capabilities
       color: text-primary
       styles:
         self:
@@ -362,7 +361,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          VeloCD offers **Intelligent Dependency Management**, automatically
+          Continuum offers **Intelligent Dependency Management**, automatically
           resolving and managing project dependencies with **version
           compatibility checks** and real-time validation. It detects outdated
           or vulnerable dependencies and suggests secure, up-to-date
@@ -389,7 +388,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          VeloCD integrates **Secure RBAC**, allowing organizations to define
+          Continuum integrates **Secure RBAC**, allowing organizations to define
           and manage user permissions with precision. Assign granular access
           levels to developers, testers, and admins, ensuring **only authorized
           personnel** can modify or deploy code.
@@ -415,10 +414,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          VeloCD provides **Automated Change Tracking & Audit Logs**, recording
-          every modification, build, and deployment event with timestamps. This
-          enables **detailed traceability** and makes it easy to review
-          historical changes for debugging or compliance audits.
+          Continuum provides **Automated Change Tracking & Audit Logs**,
+          recording every modification, build, and deployment event with
+          timestamps. This enables **detailed traceability** and makes it easy
+          to review historical changes for debugging or compliance audits.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -451,7 +450,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Empower Your CI/CD Workflow with VeloCD
+      text: "Empower Your CI/CD Workflow with\_Continuum"
       color: text-dark
       type: TitleBlock
     subtitle: ''
