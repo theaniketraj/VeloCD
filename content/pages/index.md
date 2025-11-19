@@ -66,13 +66,12 @@ sections:
       - type: FeaturedItem
         title: Real-Time CI/CD Pipeline Visualization
         subtitle: ''
-        text: >+
-          VeloCD offers an **interactive, real-time visualization** of your
+        text: >
+          Continuum offers an **interactive, real-time visualization** of your
           CI/CD pipelines. Track every build, test, and deployment in **live
           motion**, with dynamic status indicators that reflect changes
           instantly. See green dots for successful stages and red for failures,
           allowing you to **identify bottlenecks at a glance**.
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
