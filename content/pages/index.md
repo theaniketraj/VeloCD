@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Experience the Future of Continuous Integration. VeloCD accelerates your
-      Builds and Deployments with Real-Time Monitoring and Intelligent
+      Experience the Future of Continuous Integration. Continuum accelerates
+      your Builds and Deployments with Real-Time Monitoring and Intelligent
       Automation.
     actions:
       - label: Get started
