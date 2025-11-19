@@ -388,7 +388,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          VeloCD integrates **Secure RBAC**, allowing organizations to define
+          Continuum integrates **Secure RBAC**, allowing organizations to define
           and manage user permissions with precision. Assign granular access
           levels to developers, testers, and admins, ensuring **only authorized
           personnel** can modify or deploy code.
