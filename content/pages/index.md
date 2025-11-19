@@ -450,7 +450,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Empower Your CI/CD Workflow with VeloCD
+      text: "Empower Your CI/CD Workflow with\_Continuum"
       color: text-dark
       type: TitleBlock
     subtitle: ''
