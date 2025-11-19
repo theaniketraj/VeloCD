@@ -349,7 +349,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: VeloCD's Advanced Capabilities
+      text: Continuum's Advanced Capabilities
       color: text-primary
       styles:
         self:
