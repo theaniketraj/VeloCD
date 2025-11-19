@@ -211,7 +211,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: VeloCD
+      label: Continuum
       color: text-primary
       styles:
         self:
