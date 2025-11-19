@@ -361,7 +361,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          VeloCD offers **Intelligent Dependency Management**, automatically
+          Continuum offers **Intelligent Dependency Management**, automatically
           resolving and managing project dependencies with **version
           compatibility checks** and real-time validation. It detects outdated
           or vulnerable dependencies and suggests secure, up-to-date
