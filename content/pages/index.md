@@ -184,8 +184,8 @@ sections:
       type: TitleBlock
     subtitle: Overview
     text: >
-      VeloCD centralizes and automates the management of software versions and
-      deployment pipelines. Its design is grounded in a modular architecture
+      Continuum centralizes and automates the management of software versions
+      and deployment pipelines. Its design is grounded in a modular architecture
       that enables precise control over version incrementation, branching,
       tagging, and rollback mechanisms. The platform facilitates a seamless
       workflow from source code management to deployment, reducing manual
