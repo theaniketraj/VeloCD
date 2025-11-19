@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Velocd
+      label: continuum
       color: text-primary
       type: Badge
     elementId: ''
