@@ -10,7 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      VeloCD's pricing structure is designed to offer comprehensive CI/CD
+      Continuum's pricing structure is designed to offer comprehensive CI/CD
       automation and version management capabilities at competitive rates.
     plans:
       - title: Core
